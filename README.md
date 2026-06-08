@@ -1,6 +1,6 @@
 # Ariba-GitInsight
 "A web application that allows users to search for any GitHub profile by username using the official GitHub REST API. The app dynamically fetches and displays real-time profile details including avatars, bios, repository counts, followers, and direct links to public repositories."
-# AribaGit - GitHub User Finder
+#  GitHub User Finder
 
 A sleek, responsive web application built to search and discover GitHub profiles in real time. Powered by the official GitHub REST API, this tool fetches comprehensive developer metrics instantly, providing a clean user interface to view profiles, statistics, and public repository summaries.
 
