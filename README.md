@@ -7,6 +7,8 @@ A sleek, responsive web application built to search and discover GitHub profiles
 👉 **[Live Demo Link](https://aribafatma.github.io/Ariba-GitInsight/)**
 ## Screenshot
 <img width="1912" height="1077" alt="Screenshot 2026-06-08 192201" src="https://github.com/user-attachments/assets/22ef0a11-f9f9-459d-954d-7f7960241639" />
+<img width="1910" height="1069" alt="Screenshot 2026-06-08 192323" src="https://github.com/user-attachments/assets/425d07eb-3712-4eef-938a-aaa63fc83aa2" />
+
 
 
 ## 🚀 Key Features
