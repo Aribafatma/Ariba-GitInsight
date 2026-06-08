@@ -4,7 +4,7 @@
 
 A sleek, responsive web application built to search and discover GitHub profiles in real time. Powered by the official GitHub REST API, this tool fetches comprehensive developer metrics instantly, providing a clean user interface to view profiles, statistics, and public repository summaries.
 
-👉 **[Live Demo Link](http://127.0.0.1:5500/Ariba-GitInsight/index.html)**
+👉 **[Live Demo Link](https://github.com/Aribafatma/Ariba-GitInsight)**
 
 ## 🚀 Key Features
 
